@@ -76,7 +76,7 @@ const HomePage: React.FC = () => {
               }}
               className="border border-white text-white px-6 py-3 rounded-md hover:bg-white hover:text-blue-900 transition"
             >
-              Book Session
+              Talk to a Pro
             </button>
           </motion.div>
         </div>
